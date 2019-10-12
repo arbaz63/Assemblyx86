@@ -1,4 +1,7 @@
-;Write a program to print triangle of '*'
+COMMENT @
+This program will print a triangle. To change the length of triangle, simply change the value of
+ecx register. Number of lines of triangle are eqaul to ecx register value.
+@
 
 INCLUDE Irvine32.inc
 
