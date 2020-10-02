@@ -11,7 +11,7 @@ INCLUDE Irvine32.inc
 .data
 
 ;prompts for better UI
-prompt1 BYTE "Enter string of lenght 10: ",0
+prompt1 BYTE "Please enter any string of lenght 10: ",0
 prompt2 BYTE "Original string: ",0
 prompt3 BYTE "Reversed string: ",0
 
